@@ -13,7 +13,7 @@ const routes = [
       element: <Home />,
     },
     {
-      path: "wholeproject",
+      path: "whole",
       element: <Home />,
     },
     {
